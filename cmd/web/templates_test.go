@@ -7,7 +7,6 @@ import (
 )
 
 func TestHumanDate(t *testing.T) {
-
 	tests := []struct {
 		name string
 		tm   time.Time
